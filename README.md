@@ -3,7 +3,11 @@
 ### AIM:
 To design and implement a question-answering chatbot capable of processing and extracting information from a provided PDF document using LangChain, and to evaluate its effectiveness by testing its responses to diverse queries derived from the document's content.
 
-### PROBLEM STATEMENT:Develop an application that generates responses based on user-provided inputs using LangChain Expression Language. The system should combine prompt templates, a language model, and an output parser to process inputs and produce relevant responses efficiently.
+#### NAME : KAMALESH R
+#### DATE : 03/11/2026
+
+### PROBLEM STATEMENT:
+Develop an application that generates responses based on user-provided inputs using LangChain Expression Language. The system should combine prompt templates, a language model, and an output parser to process inputs and produce relevant responses efficiently.
 
 ### DESIGN STEPS:
 
